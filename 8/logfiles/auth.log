@@ -1,0 +1,440 @@
+Nov 27 00:17:01 pi CRON[22841]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 00:17:01 pi CRON[22841]: pam_unix(cron:session): session closed for user root
+Nov 27 01:17:01 pi CRON[22906]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 01:17:01 pi CRON[22906]: pam_unix(cron:session): session closed for user root
+Nov 27 02:17:01 pi CRON[23023]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 02:17:01 pi CRON[23023]: pam_unix(cron:session): session closed for user root
+Nov 27 03:10:01 pi CRON[23092]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 03:10:01 pi CRON[23092]: pam_unix(cron:session): session closed for user root
+Nov 27 03:17:01 pi CRON[23108]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 03:17:01 pi CRON[23108]: pam_unix(cron:session): session closed for user root
+Nov 27 03:30:01 pi CRON[23138]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 03:30:01 pi CRON[23138]: pam_unix(cron:session): session closed for user root
+Nov 27 04:17:01 pi CRON[23201]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 04:17:01 pi CRON[23201]: pam_unix(cron:session): session closed for user root
+Nov 27 05:17:01 pi CRON[23272]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 05:17:01 pi CRON[23272]: pam_unix(cron:session): session closed for user root
+Nov 27 06:17:01 pi CRON[23354]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 06:17:01 pi CRON[23354]: pam_unix(cron:session): session closed for user root
+Nov 27 06:25:01 pi CRON[23367]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 06:25:01 pi CRON[23367]: pam_unix(cron:session): session closed for user root
+Nov 27 06:47:01 pi CRON[23481]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 06:47:01 pi CRON[23481]: pam_unix(cron:session): session closed for user root
+Nov 27 06:48:13 pi PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Nov 27 06:48:13 pi PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Nov 27 07:17:01 pi CRON[23941]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 07:17:01 pi CRON[23941]: pam_unix(cron:session): session closed for user root
+Nov 27 07:30:01 pi CRON[23961]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 07:30:01 pi CRON[23961]: pam_unix(cron:session): session closed for user root
+Nov 27 08:17:01 pi CRON[24068]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 08:17:01 pi CRON[24068]: pam_unix(cron:session): session closed for user root
+Nov 27 08:30:01 pi CRON[24089]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 08:30:01 pi CRON[24089]: pam_unix(cron:session): session closed for user root
+Nov 27 09:17:01 pi CRON[24160]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 09:17:01 pi CRON[24160]: pam_unix(cron:session): session closed for user root
+Nov 27 09:30:01 pi CRON[24182]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 09:30:01 pi CRON[24182]: pam_unix(cron:session): session closed for user root
+Nov 27 10:17:01 pi CRON[24257]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 10:17:01 pi CRON[24257]: pam_unix(cron:session): session closed for user root
+Nov 27 10:30:01 pi CRON[24280]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 10:30:02 pi CRON[24280]: pam_unix(cron:session): session closed for user root
+Nov 27 11:17:01 pi CRON[24350]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 11:17:01 pi CRON[24350]: pam_unix(cron:session): session closed for user root
+Nov 27 11:27:27 pi sshd[24369]: Accepted publickey for fanatic from 192.168.1.39 port 49943 ssh2: RSA SHA256:lkQkUG89E7/azqu5i0eTB0MhNE/Kd/Rn+Bjn4VeURdg
+Nov 27 11:27:27 pi sshd[24369]: pam_unix(sshd:session): session opened for user fanatic(uid=1000) by (uid=0)
+Nov 27 11:27:27 pi systemd-logind[1016]: New session 231 of user fanatic.
+Nov 27 11:27:33 pi sudo:  fanatic : TTY=pts/1 ; PWD=/home/fanatic ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 27 11:27:33 pi sudo: pam_unix(sudo:session): session opened for user root(uid=0) by fanatic(uid=1000)
+Nov 27 11:27:53 pi sudo: pam_unix(sudo:session): session closed for user root
+Nov 27 11:30:01 pi CRON[24916]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 11:30:01 pi CRON[24916]: pam_unix(cron:session): session closed for user root
+Nov 27 12:17:01 pi CRON[24980]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 12:17:01 pi CRON[24980]: pam_unix(cron:session): session closed for user root
+Nov 27 12:30:01 pi CRON[25002]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 12:30:01 pi CRON[25002]: pam_unix(cron:session): session closed for user root
+Nov 27 12:35:58 pi sshd[24449]: Received disconnect from 192.168.1.39 port 49943:11: disconnected by user
+Nov 27 12:35:58 pi sshd[24449]: Disconnected from user fanatic 192.168.1.39 port 49943
+Nov 27 12:35:58 pi sshd[24369]: pam_unix(sshd:session): session closed for user fanatic
+Nov 27 12:35:58 pi systemd-logind[1016]: Session 231 logged out. Waiting for processes to exit.
+Nov 27 12:35:58 pi systemd-logind[1016]: Removed session 231.
+Nov 27 13:04:50 pi gdm-password]: pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty1 ruser= rhost=  user=fanatic
+Nov 27 13:04:56 pi gdm-password]: gkr-pam: unlocked login keyring
+Nov 27 13:17:01 pi CRON[25244]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 13:17:01 pi CRON[25244]: pam_unix(cron:session): session closed for user root
+Nov 27 13:30:01 pi CRON[25265]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 13:30:01 pi CRON[25265]: pam_unix(cron:session): session closed for user root
+Nov 27 14:17:01 pi CRON[25339]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 14:17:01 pi CRON[25339]: pam_unix(cron:session): session closed for user root
+Nov 27 14:29:36 pi gdm-password]: pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty1 ruser= rhost=  user=fanatic
+Nov 27 14:29:55 pi gdm-password]: gkr-pam: unlocked login keyring
+Nov 27 14:30:01 pi CRON[25897]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 14:30:01 pi CRON[25897]: pam_unix(cron:session): session closed for user root
+Nov 27 15:17:01 pi CRON[27020]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 15:17:01 pi CRON[27020]: pam_unix(cron:session): session closed for user root
+Nov 27 15:30:01 pi CRON[27039]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 15:30:01 pi CRON[27039]: pam_unix(cron:session): session closed for user root
+Nov 27 16:17:01 pi CRON[27168]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 16:17:01 pi CRON[27168]: pam_unix(cron:session): session closed for user root
+Nov 27 16:30:01 pi CRON[27196]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 16:30:01 pi CRON[27196]: pam_unix(cron:session): session closed for user root
+Nov 27 16:55:21 pi gdm-password]: gkr-pam: unlocked login keyring
+Nov 27 17:17:01 pi CRON[28215]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 17:17:01 pi CRON[28215]: pam_unix(cron:session): session closed for user root
+Nov 27 17:30:01 pi CRON[28243]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 17:30:01 pi CRON[28243]: pam_unix(cron:session): session closed for user root
+Nov 27 18:17:01 pi CRON[28299]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 18:17:01 pi CRON[28299]: pam_unix(cron:session): session closed for user root
+Nov 27 18:30:01 pi CRON[28321]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 18:30:01 pi CRON[28321]: pam_unix(cron:session): session closed for user root
+Nov 27 19:17:01 pi CRON[28385]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 19:17:01 pi CRON[28385]: pam_unix(cron:session): session closed for user root
+Nov 27 19:30:01 pi CRON[28406]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 19:30:01 pi CRON[28406]: pam_unix(cron:session): session closed for user root
+Nov 27 20:17:01 pi CRON[28475]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 20:17:01 pi CRON[28475]: pam_unix(cron:session): session closed for user root
+Nov 27 20:30:01 pi CRON[28493]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 20:30:01 pi CRON[28493]: pam_unix(cron:session): session closed for user root
+Nov 27 21:17:01 pi CRON[28567]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 21:17:01 pi CRON[28567]: pam_unix(cron:session): session closed for user root
+Nov 27 21:30:01 pi CRON[28589]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 21:30:01 pi CRON[28589]: pam_unix(cron:session): session closed for user root
+Nov 27 22:17:01 pi CRON[28652]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 22:17:01 pi CRON[28652]: pam_unix(cron:session): session closed for user root
+Nov 27 22:30:01 pi CRON[28673]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 22:30:01 pi CRON[28673]: pam_unix(cron:session): session closed for user root
+Nov 27 23:17:02 pi CRON[28743]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 23:17:02 pi CRON[28743]: pam_unix(cron:session): session closed for user root
+Nov 27 23:30:01 pi CRON[28765]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 27 23:30:01 pi CRON[28765]: pam_unix(cron:session): session closed for user root
+Nov 28 00:17:01 pi CRON[28856]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 28 00:17:01 pi CRON[28856]: pam_unix(cron:session): session closed for user root
+Nov 28 01:17:01 pi CRON[29418]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 28 01:17:01 pi CRON[29418]: pam_unix(cron:session): session closed for user root
+Nov 28 02:17:01 pi CRON[29505]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 28 02:17:01 pi CRON[29505]: pam_unix(cron:session): session closed for user root
+Nov 28 03:10:01 pi CRON[29577]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 28 03:10:01 pi CRON[29577]: pam_unix(cron:session): session closed for user root
+Nov 28 03:17:01 pi CRON[29590]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 28 03:17:01 pi CRON[29590]: pam_unix(cron:session): session closed for user root
+Nov 28 04:17:01 pi CRON[29671]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 28 04:17:01 pi CRON[29671]: pam_unix(cron:session): session closed for user root
+Nov 28 05:17:01 pi CRON[29747]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 28 05:17:01 pi CRON[29747]: pam_unix(cron:session): session closed for user root
+Nov 28 06:07:30 pi PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Nov 28 06:07:30 pi PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Nov 28 06:07:52 pi PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Nov 28 06:07:52 pi PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Nov 28 06:07:59 pi PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Nov 28 06:07:59 pi PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Nov 28 06:08:05 pi PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Nov 28 06:08:05 pi PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Nov 28 06:17:01 pi CRON[31329]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 28 06:17:01 pi CRON[31329]: pam_unix(cron:session): session closed for user root
+Nov 28 06:25:01 pi CRON[31343]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 28 06:25:01 pi CRON[31343]: pam_unix(cron:session): session closed for user root
+Nov 28 07:17:01 pi CRON[31484]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 28 07:17:01 pi CRON[31484]: pam_unix(cron:session): session closed for user root
+Nov 28 07:30:01 pi CRON[31505]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 28 07:30:01 pi CRON[31505]: pam_unix(cron:session): session closed for user root
+Nov 28 08:17:01 pi CRON[31591]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 28 08:17:01 pi CRON[31591]: pam_unix(cron:session): session closed for user root
+Nov 28 08:30:01 pi CRON[31662]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 28 08:30:01 pi CRON[31662]: pam_unix(cron:session): session closed for user root
+Nov 28 09:17:01 pi CRON[31718]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 28 09:17:01 pi CRON[31718]: pam_unix(cron:session): session closed for user root
+Nov 28 09:30:01 pi CRON[31738]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 28 09:30:01 pi CRON[31738]: pam_unix(cron:session): session closed for user root
+Nov 28 10:17:01 pi CRON[31796]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 28 10:17:01 pi CRON[31796]: pam_unix(cron:session): session closed for user root
+Nov 28 10:30:01 pi CRON[31816]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 28 10:30:01 pi CRON[31816]: pam_unix(cron:session): session closed for user root
+Nov 28 10:48:09 pi sshd[31844]: Accepted publickey for fanatic from 192.168.1.39 port 50741 ssh2: RSA SHA256:lkQkUG89E7/azqu5i0eTB0MhNE/Kd/Rn+Bjn4VeURdg
+Nov 28 10:48:09 pi sshd[31844]: pam_unix(sshd:session): session opened for user fanatic(uid=1000) by (uid=0)
+Nov 28 10:48:09 pi systemd-logind[1016]: New session 274 of user fanatic.
+Nov 28 10:48:12 pi sudo:  fanatic : TTY=pts/1 ; PWD=/home/fanatic ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 28 10:48:12 pi sudo: pam_unix(sudo:session): session opened for user root(uid=0) by fanatic(uid=1000)
+Nov 28 10:48:30 pi sudo: pam_unix(sudo:session): session closed for user root
+Nov 28 10:50:56 pi pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by (uid=1000)
+Nov 28 10:50:56 pi pkexec[32312]: fanatic: Executing command [USER=root] [TTY=unknown] [CWD=/home/fanatic] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Nov 28 11:17:01 pi CRON[32398]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 28 11:17:01 pi CRON[32398]: pam_unix(cron:session): session closed for user root
+Nov 28 11:25:53 pi sudo:  fanatic : TTY=pts/1 ; PWD=/home/fanatic ; USER=root ; COMMAND=/usr/bin/apt upgrade
+Nov 28 11:25:53 pi sudo: pam_unix(sudo:session): session opened for user root(uid=0) by fanatic(uid=1000)
+Nov 28 11:26:26 pi sudo: pam_unix(sudo:session): session closed for user root
+Nov 28 11:30:01 pi CRON[32714]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 28 11:30:01 pi CRON[32714]: pam_unix(cron:session): session closed for user root
+Nov 28 11:57:59 pi sshd[31922]: Received disconnect from 192.168.1.39 port 50741:11: disconnected by user
+Nov 28 11:57:59 pi sshd[31922]: Disconnected from user fanatic 192.168.1.39 port 50741
+Nov 28 11:57:59 pi sshd[31844]: pam_unix(sshd:session): session closed for user fanatic
+Nov 28 11:57:59 pi systemd-logind[1016]: Session 274 logged out. Waiting for processes to exit.
+Nov 28 11:57:59 pi systemd-logind[1016]: Removed session 274.
+Nov 28 12:17:01 pi CRON[33471]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 28 12:17:01 pi CRON[33471]: pam_unix(cron:session): session closed for user root
+Nov 28 12:30:01 pi CRON[33492]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 28 12:30:01 pi CRON[33492]: pam_unix(cron:session): session closed for user root
+Nov 28 12:48:52 pi gdm-password]: pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty1 ruser= rhost=  user=fanatic
+Nov 28 12:48:58 pi gdm-password]: gkr-pam: unlocked login keyring
+Nov 28 13:17:02 pi CRON[33654]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 28 13:17:02 pi CRON[33654]: pam_unix(cron:session): session closed for user root
+Nov 28 13:30:01 pi CRON[33674]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 28 13:30:01 pi CRON[33674]: pam_unix(cron:session): session closed for user root
+Nov 28 14:17:01 pi CRON[33747]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 28 14:17:01 pi CRON[33747]: pam_unix(cron:session): session closed for user root
+Nov 28 14:30:01 pi CRON[33770]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 28 14:30:01 pi CRON[33770]: pam_unix(cron:session): session closed for user root
+Nov 28 15:17:01 pi CRON[33841]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 28 15:17:01 pi CRON[33841]: pam_unix(cron:session): session closed for user root
+Nov 28 15:30:01 pi CRON[33859]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 28 15:30:01 pi CRON[33859]: pam_unix(cron:session): session closed for user root
+Nov 28 16:06:39 pi sshd[33915]: Accepted publickey for fanatic from 192.168.1.39 port 51786 ssh2: RSA SHA256:lkQkUG89E7/azqu5i0eTB0MhNE/Kd/Rn+Bjn4VeURdg
+Nov 28 16:06:39 pi sshd[33915]: pam_unix(sshd:session): session opened for user fanatic(uid=1000) by (uid=0)
+Nov 28 16:06:39 pi systemd-logind[1016]: New session 285 of user fanatic.
+Nov 28 16:17:01 pi CRON[34149]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 28 16:17:01 pi CRON[34149]: pam_unix(cron:session): session closed for user root
+Nov 28 16:30:01 pi CRON[34209]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 28 16:30:01 pi CRON[34209]: pam_unix(cron:session): session closed for user root
+Nov 28 16:37:43 pi sshd[33994]: Received disconnect from 192.168.1.39 port 51786:11: disconnected by user
+Nov 28 16:37:43 pi sshd[33994]: Disconnected from user fanatic 192.168.1.39 port 51786
+Nov 28 16:37:43 pi sshd[33915]: pam_unix(sshd:session): session closed for user fanatic
+Nov 28 16:37:43 pi systemd-logind[1016]: Session 285 logged out. Waiting for processes to exit.
+Nov 28 16:37:43 pi systemd-logind[1016]: Removed session 285.
+Nov 28 17:17:01 pi CRON[34270]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 28 17:17:01 pi CRON[34270]: pam_unix(cron:session): session closed for user root
+Nov 28 17:30:01 pi CRON[34287]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 28 17:30:01 pi CRON[34287]: pam_unix(cron:session): session closed for user root
+Nov 28 18:17:01 pi CRON[34348]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 28 18:17:01 pi CRON[34348]: pam_unix(cron:session): session closed for user root
+Nov 28 18:30:01 pi CRON[34378]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 28 18:30:01 pi CRON[34378]: pam_unix(cron:session): session closed for user root
+Nov 28 19:17:01 pi CRON[34437]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 28 19:17:01 pi CRON[34437]: pam_unix(cron:session): session closed for user root
+Nov 28 19:30:01 pi CRON[34483]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 28 19:30:01 pi CRON[34483]: pam_unix(cron:session): session closed for user root
+Nov 28 20:17:01 pi CRON[34561]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 28 20:17:01 pi CRON[34561]: pam_unix(cron:session): session closed for user root
+Nov 28 20:30:01 pi CRON[34586]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 28 20:30:01 pi CRON[34586]: pam_unix(cron:session): session closed for user root
+Nov 28 21:17:01 pi CRON[34657]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 28 21:17:01 pi CRON[34657]: pam_unix(cron:session): session closed for user root
+Nov 28 21:30:01 pi CRON[34676]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 28 21:30:01 pi CRON[34676]: pam_unix(cron:session): session closed for user root
+Nov 28 21:37:01 pi gdm-password]: pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty1 ruser= rhost=  user=fanatic
+Nov 28 21:37:06 pi gdm-password]: gkr-pam: unlocked login keyring
+Nov 28 22:17:01 pi CRON[35891]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 28 22:17:01 pi CRON[35891]: pam_unix(cron:session): session closed for user root
+Nov 28 22:30:01 pi CRON[35911]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 28 22:30:01 pi CRON[35911]: pam_unix(cron:session): session closed for user root
+Nov 28 23:02:28 pi gdm-password]: gkr-pam: unlocked login keyring
+Nov 28 23:17:01 pi CRON[37633]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 28 23:17:01 pi CRON[37633]: pam_unix(cron:session): session closed for user root
+Nov 28 23:30:01 pi CRON[37906]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 28 23:30:01 pi CRON[37906]: pam_unix(cron:session): session closed for user root
+Nov 29 00:17:01 pi CRON[38075]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 29 00:17:01 pi CRON[38075]: pam_unix(cron:session): session closed for user root
+Nov 29 01:17:01 pi CRON[38171]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 29 01:17:01 pi CRON[38171]: pam_unix(cron:session): session closed for user root
+Nov 29 02:17:01 pi CRON[38276]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 29 02:17:01 pi CRON[38276]: pam_unix(cron:session): session closed for user root
+Nov 29 03:10:01 pi CRON[38344]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 29 03:10:01 pi CRON[38344]: pam_unix(cron:session): session closed for user root
+Nov 29 03:17:01 pi CRON[38357]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 29 03:17:01 pi CRON[38357]: pam_unix(cron:session): session closed for user root
+Nov 29 04:17:01 pi CRON[38922]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 29 04:17:01 pi CRON[38922]: pam_unix(cron:session): session closed for user root
+Nov 29 05:17:01 pi CRON[39001]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 29 05:17:01 pi CRON[39001]: pam_unix(cron:session): session closed for user root
+Nov 29 06:17:01 pi CRON[39075]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 29 06:17:01 pi CRON[39075]: pam_unix(cron:session): session closed for user root
+Nov 29 06:25:01 pi CRON[39092]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 29 06:25:01 pi CRON[39092]: pam_unix(cron:session): session closed for user root
+Nov 29 06:48:13 pi PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Nov 29 06:48:13 pi PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Nov 29 07:17:01 pi CRON[39663]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 29 07:17:01 pi CRON[39663]: pam_unix(cron:session): session closed for user root
+Nov 29 07:30:01 pi CRON[39681]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 29 07:30:01 pi CRON[39681]: pam_unix(cron:session): session closed for user root
+Nov 29 08:17:01 pi CRON[39818]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 29 08:17:01 pi CRON[39818]: pam_unix(cron:session): session closed for user root
+Nov 29 08:30:01 pi CRON[39838]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 29 08:30:01 pi CRON[39838]: pam_unix(cron:session): session closed for user root
+Nov 29 09:17:01 pi CRON[39895]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 29 09:17:01 pi CRON[39895]: pam_unix(cron:session): session closed for user root
+Nov 29 09:30:01 pi CRON[39913]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 29 09:30:01 pi CRON[39913]: pam_unix(cron:session): session closed for user root
+Nov 29 09:54:44 pi sshd[39955]: Accepted publickey for fanatic from 192.168.1.39 port 50244 ssh2: RSA SHA256:lkQkUG89E7/azqu5i0eTB0MhNE/Kd/Rn+Bjn4VeURdg
+Nov 29 09:54:44 pi sshd[39955]: pam_unix(sshd:session): session opened for user fanatic(uid=1000) by (uid=0)
+Nov 29 09:54:44 pi systemd-logind[1016]: New session 317 of user fanatic.
+Nov 29 09:54:47 pi sudo:  fanatic : TTY=pts/0 ; PWD=/home/fanatic ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 29 09:54:47 pi sudo: pam_unix(sudo:session): session opened for user root(uid=0) by fanatic(uid=1000)
+Nov 29 09:55:07 pi sudo: pam_unix(sudo:session): session closed for user root
+Nov 29 09:55:27 pi sshd[40034]: Received disconnect from 192.168.1.39 port 50244:11: disconnected by user
+Nov 29 09:55:27 pi sshd[40034]: Disconnected from user fanatic 192.168.1.39 port 50244
+Nov 29 09:55:27 pi sshd[39955]: pam_unix(sshd:session): session closed for user fanatic
+Nov 29 09:55:27 pi systemd-logind[1016]: Session 317 logged out. Waiting for processes to exit.
+Nov 29 09:55:27 pi systemd-logind[1016]: Removed session 317.
+Nov 29 10:17:01 pi CRON[40498]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 29 10:17:01 pi CRON[40498]: pam_unix(cron:session): session closed for user root
+Nov 29 10:30:01 pi CRON[40518]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 29 10:30:01 pi CRON[40518]: pam_unix(cron:session): session closed for user root
+Nov 29 11:17:01 pi CRON[40591]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 29 11:17:01 pi CRON[40591]: pam_unix(cron:session): session closed for user root
+Nov 29 11:30:01 pi CRON[40608]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 29 11:30:01 pi CRON[40608]: pam_unix(cron:session): session closed for user root
+Nov 29 12:15:20 pi sshd[40671]: Accepted publickey for fanatic from 192.168.1.39 port 51981 ssh2: RSA SHA256:lkQkUG89E7/azqu5i0eTB0MhNE/Kd/Rn+Bjn4VeURdg
+Nov 29 12:15:20 pi sshd[40671]: pam_unix(sshd:session): session opened for user fanatic(uid=1000) by (uid=0)
+Nov 29 12:15:20 pi systemd-logind[1016]: New session 322 of user fanatic.
+Nov 29 12:17:01 pi CRON[40824]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 29 12:17:01 pi CRON[40824]: pam_unix(cron:session): session closed for user root
+Nov 29 12:30:01 pi CRON[40843]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 29 12:30:01 pi CRON[40843]: pam_unix(cron:session): session closed for user root
+Nov 29 13:08:18 pi sshd[40749]: Received disconnect from 192.168.1.39 port 51981:11: disconnected by user
+Nov 29 13:08:18 pi sshd[40749]: Disconnected from user fanatic 192.168.1.39 port 51981
+Nov 29 13:08:18 pi sshd[40671]: pam_unix(sshd:session): session closed for user fanatic
+Nov 29 13:08:18 pi systemd-logind[1016]: Session 322 logged out. Waiting for processes to exit.
+Nov 29 13:08:18 pi systemd-logind[1016]: Removed session 322.
+Nov 29 13:17:01 pi CRON[40914]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 29 13:17:01 pi CRON[40914]: pam_unix(cron:session): session closed for user root
+Nov 29 13:30:01 pi CRON[40935]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 29 13:30:01 pi CRON[40935]: pam_unix(cron:session): session closed for user root
+Nov 29 14:17:01 pi CRON[41081]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 29 14:17:01 pi CRON[41081]: pam_unix(cron:session): session closed for user root
+Nov 29 14:30:01 pi CRON[41104]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 29 14:30:01 pi CRON[41104]: pam_unix(cron:session): session closed for user root
+Nov 29 15:17:01 pi CRON[41178]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 29 15:17:02 pi CRON[41178]: pam_unix(cron:session): session closed for user root
+Nov 29 15:30:01 pi CRON[41201]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 29 15:30:01 pi CRON[41201]: pam_unix(cron:session): session closed for user root
+Nov 29 16:17:01 pi CRON[41254]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 29 16:17:01 pi CRON[41254]: pam_unix(cron:session): session closed for user root
+Nov 29 16:30:01 pi CRON[41271]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 29 16:30:01 pi CRON[41271]: pam_unix(cron:session): session closed for user root
+Nov 29 17:17:01 pi CRON[41337]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 29 17:17:01 pi CRON[41337]: pam_unix(cron:session): session closed for user root
+Nov 29 17:30:01 pi CRON[41356]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 29 17:30:01 pi CRON[41356]: pam_unix(cron:session): session closed for user root
+Nov 29 18:17:01 pi CRON[41795]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 29 18:17:01 pi CRON[41795]: pam_unix(cron:session): session closed for user root
+Nov 29 18:30:01 pi CRON[41823]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 29 18:30:01 pi CRON[41823]: pam_unix(cron:session): session closed for user root
+Nov 29 19:17:01 pi CRON[41885]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 29 19:17:01 pi CRON[41885]: pam_unix(cron:session): session closed for user root
+Nov 29 19:30:01 pi CRON[41905]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 29 19:30:01 pi CRON[41905]: pam_unix(cron:session): session closed for user root
+Nov 29 20:17:01 pi CRON[42022]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 29 20:17:01 pi CRON[42022]: pam_unix(cron:session): session closed for user root
+Nov 29 20:30:01 pi CRON[42046]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 29 20:30:01 pi CRON[42046]: pam_unix(cron:session): session closed for user root
+Nov 29 21:05:21 pi sshd[42332]: Accepted publickey for fanatic from 192.168.1.39 port 49976 ssh2: RSA SHA256:lkQkUG89E7/azqu5i0eTB0MhNE/Kd/Rn+Bjn4VeURdg
+Nov 29 21:05:21 pi sshd[42332]: pam_unix(sshd:session): session opened for user fanatic(uid=1000) by (uid=0)
+Nov 29 21:05:21 pi systemd-logind[1016]: New session 341 of user fanatic.
+Nov 29 21:17:01 pi CRON[42489]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 29 21:17:01 pi CRON[42489]: pam_unix(cron:session): session closed for user root
+Nov 29 21:30:01 pi CRON[42515]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 29 21:30:01 pi CRON[42515]: pam_unix(cron:session): session closed for user root
+Nov 29 22:17:01 pi CRON[42576]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 29 22:17:01 pi CRON[42576]: pam_unix(cron:session): session closed for user root
+Nov 29 22:30:01 pi CRON[42598]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 29 22:30:01 pi CRON[42598]: pam_unix(cron:session): session closed for user root
+Nov 29 23:17:01 pi CRON[42666]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 29 23:17:01 pi CRON[42666]: pam_unix(cron:session): session closed for user root
+Nov 29 23:17:07 pi sshd[42411]: Received disconnect from 192.168.1.39 port 49976:11: disconnected by user
+Nov 29 23:17:07 pi sshd[42411]: Disconnected from user fanatic 192.168.1.39 port 49976
+Nov 29 23:17:07 pi sshd[42332]: pam_unix(sshd:session): session closed for user fanatic
+Nov 29 23:17:07 pi systemd-logind[1016]: Session 341 logged out. Waiting for processes to exit.
+Nov 29 23:17:07 pi systemd-logind[1016]: Removed session 341.
+Nov 29 23:30:01 pi CRON[42690]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 29 23:30:01 pi CRON[42690]: pam_unix(cron:session): session closed for user root
+Nov 30 00:17:01 pi CRON[42770]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 30 00:17:01 pi CRON[42770]: pam_unix(cron:session): session closed for user root
+Nov 30 01:17:01 pi CRON[42843]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 30 01:17:01 pi CRON[42843]: pam_unix(cron:session): session closed for user root
+Nov 30 02:17:01 pi CRON[42923]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 30 02:17:01 pi CRON[42923]: pam_unix(cron:session): session closed for user root
+Nov 30 03:10:01 pi CRON[42994]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 30 03:10:01 pi CRON[42994]: pam_unix(cron:session): session closed for user root
+Nov 30 03:17:01 pi CRON[43004]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 30 03:17:01 pi CRON[43004]: pam_unix(cron:session): session closed for user root
+Nov 30 04:17:01 pi CRON[43091]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 30 04:17:02 pi CRON[43091]: pam_unix(cron:session): session closed for user root
+Nov 30 05:17:01 pi CRON[43190]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 30 05:17:01 pi CRON[43190]: pam_unix(cron:session): session closed for user root
+Nov 30 06:06:13 pi PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Nov 30 06:06:13 pi PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Nov 30 06:06:36 pi PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Nov 30 06:06:36 pi PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Nov 30 06:06:41 pi PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Nov 30 06:06:41 pi PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Nov 30 06:06:46 pi PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Nov 30 06:06:46 pi PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Nov 30 06:08:56 pi pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by (uid=1000)
+Nov 30 06:08:57 pi pkexec[43942]: fanatic: Executing command [USER=root] [TTY=unknown] [CWD=/home/fanatic] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Nov 30 06:17:01 pi CRON[43958]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 30 06:17:01 pi CRON[43958]: pam_unix(cron:session): session closed for user root
+Nov 30 06:25:01 pi CRON[43972]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 30 06:25:01 pi CRON[43972]: pam_unix(cron:session): session closed for user root
+Nov 30 07:17:01 pi CRON[44106]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 30 07:17:01 pi CRON[44106]: pam_unix(cron:session): session closed for user root
+Nov 30 07:30:01 pi CRON[44128]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 30 07:30:01 pi CRON[44128]: pam_unix(cron:session): session closed for user root
+Nov 30 08:03:01 pi pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by (uid=1000)
+Nov 30 08:03:01 pi pkexec[44672]: fanatic: Executing command [USER=root] [TTY=unknown] [CWD=/home/fanatic] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Nov 30 08:17:01 pi CRON[44724]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 30 08:17:01 pi CRON[44724]: pam_unix(cron:session): session closed for user root
+Nov 30 08:30:01 pi CRON[44745]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 30 08:30:01 pi CRON[44745]: pam_unix(cron:session): session closed for user root
+Nov 30 08:41:21 pi sshd[44765]: Accepted publickey for fanatic from 192.168.1.39 port 49371 ssh2: RSA SHA256:lkQkUG89E7/azqu5i0eTB0MhNE/Kd/Rn+Bjn4VeURdg
+Nov 30 08:41:21 pi sshd[44765]: pam_unix(sshd:session): session opened for user fanatic(uid=1000) by (uid=0)
+Nov 30 08:41:21 pi systemd-logind[1016]: New session 361 of user fanatic.
+Nov 30 08:41:24 pi sudo:  fanatic : TTY=pts/0 ; PWD=/home/fanatic ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 30 08:41:24 pi sudo: pam_unix(sudo:session): session opened for user root(uid=0) by fanatic(uid=1000)
+Nov 30 08:41:36 pi sudo: pam_unix(sudo:session): session closed for user root
+Nov 30 08:41:43 pi sudo:  fanatic : TTY=pts/0 ; PWD=/home/fanatic ; USER=root ; COMMAND=/usr/bin/apt upgrade
+Nov 30 08:41:43 pi sudo: pam_unix(sudo:session): session opened for user root(uid=0) by fanatic(uid=1000)
+Nov 30 08:41:57 pi pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by (uid=1000)
+Nov 30 08:41:57 pi pkexec[45295]: fanatic: Executing command [USER=root] [TTY=unknown] [CWD=/home/fanatic] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Nov 30 08:43:01 pi sshd[45332]: Accepted publickey for fanatic from 192.168.1.39 port 49397 ssh2: RSA SHA256:lkQkUG89E7/azqu5i0eTB0MhNE/Kd/Rn+Bjn4VeURdg
+Nov 30 08:43:01 pi sshd[45332]: pam_unix(sshd:session): session opened for user fanatic(uid=1000) by (uid=0)
+Nov 30 08:43:01 pi systemd-logind[1016]: New session 362 of user fanatic.
+Nov 30 08:48:15 pi sudo:  fanatic : TTY=pts/3 ; PWD=/home/fanatic/src/bash-scripting-on-linux/5 ; USER=root ; COMMAND=/usr/bin/apt install notexist
+Nov 30 08:48:15 pi sudo: pam_unix(sudo:session): session opened for user root(uid=0) by fanatic(uid=1000)
+Nov 30 08:48:18 pi sudo: pam_unix(sudo:session): session closed for user root
+Nov 30 08:48:28 pi sudo: pam_unix(sudo:session): session closed for user root
+Nov 30 08:48:30 pi sshd[45369]: Received disconnect from 192.168.1.39 port 49397:11: disconnected by user
+Nov 30 08:48:30 pi sshd[45369]: Disconnected from user fanatic 192.168.1.39 port 49397
+Nov 30 08:48:30 pi sshd[45332]: pam_unix(sshd:session): session closed for user fanatic
+Nov 30 08:48:30 pi systemd-logind[1016]: Session 362 logged out. Waiting for processes to exit.
+Nov 30 08:48:30 pi systemd-logind[1016]: Removed session 362.
+Nov 30 08:48:36 pi sshd[56372]: Accepted publickey for fanatic from 192.168.1.39 port 49461 ssh2: RSA SHA256:lkQkUG89E7/azqu5i0eTB0MhNE/Kd/Rn+Bjn4VeURdg
+Nov 30 08:48:36 pi sshd[56372]: pam_unix(sshd:session): session opened for user fanatic(uid=1000) by (uid=0)
+Nov 30 08:48:36 pi systemd-logind[1016]: New session 363 of user fanatic.
+Nov 30 09:17:01 pi CRON[57345]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 30 09:17:01 pi CRON[57345]: pam_unix(cron:session): session closed for user root
+Nov 30 09:22:49 pi sudo:  fanatic : TTY=pts/1 ; PWD=/home/fanatic/src/bash-scripting-on-linux/7 ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 30 09:22:49 pi sudo: pam_unix(sudo:session): session opened for user root(uid=0) by fanatic(uid=1000)
+Nov 30 09:23:11 pi sudo: pam_unix(sudo:session): session closed for user root
+Nov 30 09:23:11 pi sudo:  fanatic : TTY=pts/1 ; PWD=/home/fanatic/src/bash-scripting-on-linux/7 ; USER=root ; COMMAND=/usr/bin/apt dist-upgrade
+Nov 30 09:23:11 pi sudo: pam_unix(sudo:session): session opened for user root(uid=0) by fanatic(uid=1000)
+Nov 30 09:23:13 pi sudo: pam_unix(sudo:session): session closed for user root
+Nov 30 09:28:44 pi sudo:  fanatic : TTY=pts/1 ; PWD=/home/fanatic/src/bash-scripting-on-linux/7 ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 30 09:28:44 pi sudo: pam_unix(sudo:session): session opened for user root(uid=0) by fanatic(uid=1000)
+Nov 30 09:28:50 pi sudo: pam_unix(sudo:session): session closed for user root
+Nov 30 09:28:50 pi sudo:  fanatic : TTY=pts/1 ; PWD=/home/fanatic/src/bash-scripting-on-linux/7 ; USER=root ; COMMAND=/usr/bin/apt dist-upgrade
+Nov 30 09:28:50 pi sudo: pam_unix(sudo:session): session opened for user root(uid=0) by fanatic(uid=1000)
+Nov 30 09:28:53 pi sudo: pam_unix(sudo:session): session closed for user root
+Nov 30 09:30:01 pi CRON[58323]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 30 09:30:01 pi CRON[58323]: pam_unix(cron:session): session closed for user root
+Nov 30 09:35:05 pi sudo:  fanatic : TTY=pts/1 ; PWD=/home/fanatic/src/bash-scripting-on-linux/7 ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 30 09:35:05 pi sudo: pam_unix(sudo:session): session opened for user root(uid=0) by fanatic(uid=1000)
+Nov 30 09:35:11 pi sudo: pam_unix(sudo:session): session closed for user root
+Nov 30 09:35:11 pi sudo:  fanatic : TTY=pts/1 ; PWD=/home/fanatic/src/bash-scripting-on-linux/7 ; USER=root ; COMMAND=/usr/bin/apt dist-upgrade
+Nov 30 09:35:11 pi sudo: pam_unix(sudo:session): session opened for user root(uid=0) by fanatic(uid=1000)
+Nov 30 09:35:14 pi sudo: pam_unix(sudo:session): session closed for user root
+Nov 30 09:52:40 pi sudo:  fanatic : TTY=pts/1 ; PWD=/home/fanatic/src/bash-scripting-on-linux/8 ; USER=root ; COMMAND=/usr/bin/cp /var/log/Xorg.0.log /var/log/Xorg.1.log /var/log/alternatives.log /var/log/apport.log /var/log/auth.log /var/log/boot.log /var/log/bootstrap.log /var/log/dpkg.log /var/log/fontconfig.log /var/log/kern.log /var/log/oem-config.log /var/log/ubuntu-advantage-timer.log /var/log/ubuntu-advantage.log logfiles/
+Nov 30 09:52:40 pi sudo: pam_unix(sudo:session): session opened for user root(uid=0) by fanatic(uid=1000)
+Nov 30 09:52:40 pi sudo: pam_unix(sudo:session): session closed for user root
+Nov 30 09:53:49 pi sudo:  fanatic : TTY=pts/1 ; PWD=/home/fanatic/src/bash-scripting-on-linux/8/logfiles ; USER=root ; COMMAND=/usr/bin/ls -l kern.log
+Nov 30 09:53:49 pi sudo: pam_unix(sudo:session): session opened for user root(uid=0) by fanatic(uid=1000)
+Nov 30 09:53:49 pi sudo: pam_unix(sudo:session): session closed for user root
+Nov 30 09:53:52 pi sudo:  fanatic : TTY=pts/1 ; PWD=/home/fanatic/src/bash-scripting-on-linux/8/logfiles ; USER=root ; COMMAND=/usr/bin/vim kern.log
+Nov 30 09:53:52 pi sudo: pam_unix(sudo:session): session opened for user root(uid=0) by fanatic(uid=1000)
+Nov 30 09:53:55 pi sudo: pam_unix(sudo:session): session closed for user root

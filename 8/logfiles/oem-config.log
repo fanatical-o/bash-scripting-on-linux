@@ -1,0 +1,51 @@
+Ubiquity 22.04.15 (oem-config)
+Ubiquity 22.04.15 (oem-config)
+
+(oem-config:808): IBUS-WARNING **: 10:23:41.725: The owner of /home/oem/.config/ibus/bus is not root!
+/usr/lib/ubiquity/ubiquity/frontend/gtk_components/nmwidgets.py:7: PyGIWarning: NM was imported without specifying a version first. Use gi.require_version('NM', '1.0') before import to ensure that the right version gets loaded.
+  from gi.repository import NM, NMA
+No such schema “org.gnome.nautilus.desktop”
+expected value:
+  (empty input)
+  ^
+XDG_RUNTIME_DIR (/run/user/29999) is not owned by us (uid 0), but by uid 29999! (This could e.g. happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+/usr/lib/ubiquity/ubiquity/frontend/gtk_components/nmwidgets.py:19: Warning: Source ID 209 was not found when attempting to remove it
+  GLib.source_remove(self.timeout_id)
+/usr/lib/ubiquity/plugins/ubi-console-setup.py:70: Warning: Source ID 506 was not found when attempting to remove it
+  GLib.source_remove(self.keyboard_layout_timeout_id)
+/usr/lib/ubiquity/plugins/ubi-console-setup.py:72: Warning: Source ID 509 was not found when attempting to remove it
+  GLib.source_remove(self.keyboard_variant_timeout_id)
+XDG_RUNTIME_DIR (/run/user/29999) is not owned by us (uid 0), but by uid 29999! (This could e.g. happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+XDG_RUNTIME_DIR (/run/user/29999) is not owned by us (uid 0), but by uid 29999! (This could e.g. happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+XDG_RUNTIME_DIR (/run/user/29999) is not owned by us (uid 0), but by uid 29999! (This could e.g. happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+/usr/lib/ubiquity/ubiquity/frontend/gtk_components/nmwidgets.py:19: Warning: Source ID 336 was not found when attempting to remove it
+  GLib.source_remove(self.timeout_id)
+/usr/lib/ubiquity/ubiquity/frontend/gtk_components/nmwidgets.py:135: Warning: Source ID 469 was not found when attempting to remove it
+  GLib.source_remove(self.rows_changed_id)
+/usr/lib/ubiquity/ubiquity/frontend/gtk_components/nmwidgets.py:19: Warning: Source ID 991 was not found when attempting to remove it
+  GLib.source_remove(self.timeout_id)
+/usr/lib/ubiquity/ubiquity/frontend/gtk_components/nmwidgets.py:135: Warning: Source ID 1126 was not found when attempting to remove it
+  GLib.source_remove(self.rows_changed_id)
+XDG_RUNTIME_DIR (/run/user/29999) is not owned by us (uid 0), but by uid 29999! (This could e.g. happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+XDG_RUNTIME_DIR (/run/user/29999) is not owned by us (uid 0), but by uid 29999! (This could e.g. happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+/usr/lib/ubiquity/ubiquity/frontend/gtk_components/nmwidgets.py:19: Warning: Source ID 1256 was not found when attempting to remove it
+  GLib.source_remove(self.timeout_id)
+/usr/lib/ubiquity/ubiquity/frontend/gtk_components/nmwidgets.py:135: Warning: Source ID 1385 was not found when attempting to remove it
+  GLib.source_remove(self.rows_changed_id)
+XDG_RUNTIME_DIR (/run/user/29999) is not owned by us (uid 0), but by uid 29999! (This could e.g. happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+XDG_RUNTIME_DIR (/run/user/29999) is not owned by us (uid 0), but by uid 29999! (This could e.g. happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+XDG_RUNTIME_DIR (/run/user/29999) is not owned by us (uid 0), but by uid 29999! (This could e.g. happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+XDG_RUNTIME_DIR (/run/user/29999) is not owned by us (uid 0), but by uid 29999! (This could e.g. happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+XDG_RUNTIME_DIR (/run/user/29999) is not owned by us (uid 0), but by uid 29999! (This could e.g. happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+/usr/lib/ubiquity/plugins/ubi-timezone.py:96: PyGIWarning: Soup was imported without specifying a version first. Use gi.require_version('Soup', '2.4') before import to ensure that the right version gets loaded.
+  from gi.repository import Gtk, GObject, GLib, Soup
+/usr/lib/ubiquity/ubiquity/frontend/gtk_components/nmwidgets.py:19: Warning: Source ID 1946 was not found when attempting to remove it
+  GLib.source_remove(self.timeout_id)
+/usr/lib/ubiquity/ubiquity/frontend/gtk_components/nmwidgets.py:135: Warning: Source ID 2078 was not found when attempting to remove it
+  GLib.source_remove(self.rows_changed_id)
+XDG_RUNTIME_DIR (/run/user/29999) is not owned by us (uid 0), but by uid 29999! (This could e.g. happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+XDG_RUNTIME_DIR (/run/user/29999) is not owned by us (uid 0), but by uid 29999! (This could e.g. happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+No such schema “com.canonical.indicator.session”
+No such schema “com.canonical.indicator.session”
+No such key “active”
+No such schema “org.gnome.nautilus.desktop”
