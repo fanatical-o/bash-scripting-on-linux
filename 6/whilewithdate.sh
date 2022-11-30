@@ -5,7 +5,8 @@ NUM=1
 
 while [ -f ~/testy ]
 do
-    echo "Testy exists."
+	echo "Testy exists on $(date)."
+	sleep 5
 done
 
-echo "Testy does not exist."
+echo "Testy does not exist on $(date)."
