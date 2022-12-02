@@ -1,0 +1,32 @@
+sending incremental file list
+created directory /home/fanatic/backup//current
+./
+0006655.jpg
+0302382.jpg
+2001_10_26_snowstorm.jpg
+336063main_image_1338_516-387.jpg
+8K Background.jpg
+PIA25370~large.jpg
+STScI-01G7DDBW5NNXTJV8PGHB0465QP.png
+STScI-01G7WCK1PJEM49E118GEG0Q729.png
+iss050e066094~large.jpg
+newbackground.png
+
+sent 479 bytes  received 101 bytes  1,160.00 bytes/sec
+total size is 51,937,735  speedup is 89,547.82 (DRY RUN)
+sending incremental file list
+created directory /home/fanatic/backup//current
+./
+0006655.jpg
+0302382.jpg
+2001_10_26_snowstorm.jpg
+336063main_image_1338_516-387.jpg
+8K Background.jpg
+PIA25370~large.jpg
+STScI-01G7DDBW5NNXTJV8PGHB0465QP.png
+STScI-01G7WCK1PJEM49E118GEG0Q729.png
+iss050e066094~large.jpg
+newbackground.png
+
+sent 51,951,242 bytes  received 261 bytes  34,634,335.33 bytes/sec
+total size is 51,937,735  speedup is 1.00
